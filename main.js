@@ -168,12 +168,12 @@ XeonBotInc.ev.on("connection.update",async  (s) => {
 			await delay(1999)
             console.log(chalk.yellow(`\n\n                  ${chalk.bold.blue(`[ ${botname} ]`)}\n\n`))
             console.log(chalk.cyan(`< ================================================== >`))
-	        console.log(chalk.magenta(`${themeemoji} YT CHANNEL: ${owner}'))
+	        console.log(chalk.magenta(`\n${themeemoji} YT CHANNEL: Toxxic`))
             console.log(chalk.magenta(`${themeemoji} GITHUB: Toxic1239 `))
-            console.log(chalk.magenta(`${themeemoji} INSTAGRAM: None `))
+            console.log(chalk.magenta(`${themeemoji} INSTAGRAM: @none `))
             console.log(chalk.magenta(`${themeemoji} WA NUMBER: ${owner}`))
             console.log(chalk.magenta(`${themeemoji} CREDIT: ${wm}\n`))
-        }
+	}
         if (
             connection === "close" &&
             lastDisconnect &&
