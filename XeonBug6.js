@@ -1223,7 +1223,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
                             showAdAttribution: true,
                             title: `${botname}`,
                             body: `${latensi.toFixed(4)} Second`,
-                            thumbnailUrl: 'https://i.imgur.com/I5BujDY.jpeg',
+                            thumbnailUrl: 'https://telegra.ph/file/f83b843eec88453769839.jpg',
                             sourceUrl: global.link,
                             mediaType: 1,
                             renderLargerThumbnail: true
@@ -1245,7 +1245,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
                             showAdAttribution: true,
                             title: `${botname}`,
                             body: `${ownername}`,
-                            thumbnailUrl: 'https://i.imgur.com/I5BujDY.jpeg',
+                            thumbnailUrl: 'https://telegra.ph/file/f83b843eec88453769839.jpg',
                             sourceUrl: global.link,
                             mediaType: 1,
                             renderLargerThumbnail: true
@@ -1265,7 +1265,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
                             showAdAttribution: true,
                             title: `${botname}`,
                             body: `FORGET DONATE`,
-                            thumbnailUrl: 'https://i.imgur.com/cKGh0kD.jpeg',
+                            thumbnailUrl: 'https://telegra.ph/file/f83b843eec88453769839.jpg',
                             sourceUrl: global.link,
                             mediaType: 1,
                             renderLargerThumbnail: true
@@ -1285,7 +1285,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
                             showAdAttribution: true,
                             title: `${botname}`,
                             body: `SCRIPT OF ${botname} is on Toxxic Md WhatsApp channel `,
-                            thumbnailUrl: 'https://telegra.ph/file/a17d08d830dff33ef69e7.png',
+                            thumbnailUrl: 'https://telegra.ph/file/f83b843eec88453769839.jpg',
                             sourceUrl: global.link,
                             mediaType: 1,
                             renderLargerThumbnail: true
@@ -2275,7 +2275,7 @@ break
             case '?':
             case 'allmenu':
                 let xeonmenuoh = `Hello ${pushname}
-∆ ${xeonytimewisher} 😄
+∆ ${xeonytimewisher} 💀👾
 DRAKEN MD MADE BY TOXXIC TECH
 ${readmore}
 ∆ ʙᴜɢ ᴀɴᴅʀᴏɪᴅ 👾
@@ -2312,24 +2312,24 @@ ${readmore}
 > delowner ⚫
 
 ∆ ɢʀᴏᴜᴘ ᴍᴇɴᴜ👥
-> closetime 
-> opentime
-> kick
-> add
-> promote
-> demote
-> setdesc
-> setppgc
-> tagall
-> hidetag
-> totag
-> group *[option]*
-> editinfo
-> linkgc
-> revoke
-> listonline
+> closetime 👥
+> opentime👥
+> kick👥
+> add👥
+> promote👥
+> demote👥
+> setdesc👥
+> setppgc👥
+> tagall👥
+> hidetag👥
+> totag👥
+> group *[option]*👥
+> editinfo👥
+> linkgc👥
+> revoke👥
+> listonline👥
 
-∆ ᴍᴀɪɴ ᴍᴇɴᴜ
+∆ ᴍᴀɪɴ ᴍᴇɴᴜ 🌚
 > menu
 > buypremium
 > runtime
