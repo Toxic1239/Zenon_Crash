@@ -4,7 +4,7 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "33757054414"
+global.ownernomer = "33757054310"
 global.ownername = "Toxxic Md"
 global.ytname = "Toxxic Md"
 global.socialm = "GitHub: Toxic1239"
@@ -16,7 +16,7 @@ global.botname = 'Draken Md' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = 'Toxxic-Md\n\nContact: +33757054414'
+global.author = 'Toxxic-Md\n\nContact: 33757054414'
 
 //console view/theme
 global.themeemoji = '💀'
@@ -42,7 +42,7 @@ global.autoswview = true //auto view status/story
 //v2 is link + image menu,
 //v3 is video menu,
 //v4 is call end menu
-global.typemenu = 'v2'
+global.typemenu = 'v1'
 
 //text bug
 global.xbugtex = {
