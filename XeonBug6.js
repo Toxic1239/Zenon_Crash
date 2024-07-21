@@ -2277,6 +2277,7 @@ break
                 let xeonmenuoh = `Hello ${pushname}
 ∆ ${xeonytimewisher} 💀👾
 DRAKEN MD MADE BY TOXXIC TECH
+HERE'S MY MENU LIST
 ${readmore}
 ∆ ʙᴜɢ ᴀɴᴅʀᴏɪᴅ 👾
 > xandroid 👾
@@ -2406,7 +2407,7 @@ if (typemenu === 'v1') {
       externalAdReply: {
       title: botname,
       body: ownername,
-      thumbnailUrl: 'https://telegra.ph/file/a17d08d830dff33ef69e7.png',
+      thumbnailUrl: 'https://telegra.ph/file/f83b843eec88453769839.jpg',
       sourceUrl: ``,
       mediaType: 1,
       renderLargerThumbnail: true
