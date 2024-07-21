@@ -55,9 +55,9 @@ const ZipXeon = JSON.parse(fs.readFileSync('./database/autoreply/zip.json'))
 const ApkXeon = JSON.parse(fs.readFileSync('./database/autoreply/apk.json'))
 
 //time
-const xtime = moment.tz('Asia/Lagos').format('HH:mm:ss')
-        const xdate = moment.tz('Asia/Lagos').format('DD/MM/YYYY')
-        const time2 = moment().tz('Asia/Lagos').format('HH:mm:ss')  
+const xtime = moment.tz('Africa/Lagos').format('HH:mm:ss')
+        const xdate = moment.tz('Africa/Lagos').format('DD/MM/YYYY')
+        const time2 = moment().tz('Africa/Lagos').format('HH:mm:ss')  
          if(time2 < "23:59:00"){
 var xeonytimewisher = `Good Night 🌌`
  }
