@@ -2274,63 +2274,68 @@ break
             case 'alive':
             case '?':
             case 'allmenu':
-                let xeonmenuoh = `Hello ${pushname}
-∆ ${xeonytimewisher} 💀👾
-DRAKEN MD MADE BY TOXXIC TECH
-HERE'S MY MENU LIST
+                let xeonmenuoh = `ʜᴇʟʟᴏ ${pushname}
+∆ ${xeonytimewisher} 🥳 
+ᴏᴡɴᴇʀ ⊾ ${global.ownername} 
+ᴄᴏᴍᴍᴀɴᴅs⊾ ɴɪɴᴛʏ ᴇɪɢʜᴛ ᴄᴏᴍᴍᴀɴᴅs
+ᴅʀᴀᴋᴇɴ ᴍᴅ ᴍᴀᴅᴇ ʙʏ ᴛᴏxxɪᴄ ᴍᴅ
+ʜᴇʀᴇ ɪs ᴍʏ ғᴜʟʟ ᴍᴇɴᴜ
 ${readmore}
-∆ ʙᴜɢ ᴀɴᴅʀᴏɪᴅ 👾
-> xandroid 👾
-> xandroid2👾
-> systemuicrash👾
-> xsysui👾
+⪼『ʙᴜɢ ᴀɴᴅʀᴏɪᴅ』👾
+> xandroid 
+> xandroid2
+> systemuicrash 
+> xsysui
 
-∆ ʙᴜɢ ɪᴏꜱ👾
-> xios👾
-> xios2👾
+⪼『 ʙᴜɢ ɪᴏꜱ』👾
+> xios
+> xios2
 
-∆ ʙᴜɢ ɢʀᴏᴜᴘ ᴄʜᴀᴛ👾
-> xgc👾
+⪼『ʙᴜɢ ɢʀᴏᴜᴘ ᴄʜᴀᴛ』👾
+> xgc
 
-∆ ᴏᴡɴᴇʀ ᴍᴇɴᴜ👤
-> getsession ❗
-> deletesession ⚠️
-> join 🚶
-> shutdown  😪💤 
-> restart 🔄
-> autoread *[option]* 👀
-> autotyping *[option]* ✍️
-> autorecording *[option]* 🗣
-> autorecordtyp *[option]* ✍️ 🗣
-> autobio *[option]* ✍️
-> autoswview *[option]* 👀
-> mode *[option]* 🌀
-> block 🚫
-> unblock 🔴
-> backup 🔵
-> getcase 🟣
-> addowner 🟤
-> delowner ⚫
+⪼『ᴏᴡɴᴇʀ ᴍᴇɴᴜ』👤
+> getsession 
+> deletesession 
+> join 
+> shutdown 
+> restart 
+> autoread 【option】
+> autotyping 【option】
+> autorecording 【option】
+> autorecordtyp 【option】 
+> autobio 【option】
+> autoswview 【option】
+> mode 【option】 
+> block 
+> unblock 
+> backup 
+> getcase 
+> addowner 
+> delowner 
+> addprem
+> delprem
+> listprem
 
-∆ ɢʀᴏᴜᴘ ᴍᴇɴᴜ👥
-> closetime 👥
-> opentime👥
-> kick👥
-> add👥
-> promote👥
-> demote👥
-> setdesc👥
-> setppgc👥
-> tagall👥
-> hidetag👥
-> totag👥
-> group *[option]*👥
-> editinfo👥
-> linkgc👥
-> revoke👥
-> listonline👥
+⪼『ɢʀᴏᴜᴘ ᴍᴇɴᴜ』👥
+> closetime 
+> opentime
+> kick
+> add
+> promote
+> demote
+> setdesc
+> setppgc
+> tagall
+> hidetag
+> totag
+> group 【option】
+> editinfo
+> linkgc
+> revoke
+> listonline
 
-∆ ᴍᴀɪɴ ᴍᴇɴᴜ 🌚
+⪼『ᴍᴀɪɴ ᴍᴇɴᴜ』🏠
 > menu
 > buypremium
 > runtime
@@ -2338,7 +2343,7 @@ ${readmore}
 > donate
 > owner
 
-∆ ᴄᴏɴᴠᴇʀᴛ ᴍᴇɴᴜ
+⪼『ᴄᴏɴᴠᴇʀᴛᴇʀ ᴍᴇɴᴜ』🔄
 > sticker
 > smeme
 > take
@@ -2354,7 +2359,7 @@ ${readmore}
 > fliptext
 > emojimix
 
-∆ ᴅᴀᴛᴀʙᴀsᴇ ᴍᴇɴᴜ
+⪼『ᴅᴀᴛᴀʙᴀsᴇ ᴍᴇɴᴜ』📁
 > addvideo
 > addimage
 > addsticker
@@ -2377,7 +2382,7 @@ ${readmore}
 > listapk
 > listpdf
 
-∆ ᴅᴏᴡɴ ᴍᴇɴᴜ
+⪼『ᴅᴏᴡɴʟᴏᴀᴅᴇʀ ᴍᴇɴᴜ』⏬
 > play
 > ytmp3
 > ytmp4
