@@ -4,19 +4,19 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "33757054310"
+global.ownernomer = "2348086541281"
 global.ownername = "Toxxic Md"
 global.ytname = "Toxxic Md"
 global.socialm = "GitHub: Toxic1239"
 global.location = "Africa, Nigeria, Lagos"
 
-global.ownernumber = '33757054414'  //creator number
+global.ownernumber = '2348086541281'  //creator number
 global.ownername = 'Toxxic Md' //owner name
 global.botname = 'Draken Md' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = 'Toxxic-Md\n\nContact: 33757054414'
+global.author = 'Draken-Md\n\nContact: 2348086541281'
 
 //console view/theme
 global.themeemoji = '💀'
@@ -52,7 +52,7 @@ global.bimg = '//9j/4AAQSkZJRgABAQAAAQABAAD/4gIoSUNDX1BST0ZJTEUAAQEAAAIYAAAAAAQw
 
 //reply messages
 global.mess = {
-    done: 'Done !',
+    done:  'Done successfully!',
     prem: 'Baka This Command is for Premium Users \n Now buss off',
     admin: 'Baka \n This Command is for My owner only',
     botAdmin: 'This Feature Can only be used If Draken Md is Admin ',
