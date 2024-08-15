@@ -25,7 +25,12 @@ IF YOU DON'T HAVE A REPLIT ACCOUNT CREATE ONE AND DEPLOY
     <br>
     <a href='https://replit.com/github/Toxic1239/Zenon_Crash' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Deploy-red?style=for-the-badge&logo=replit&logoColor=white'/></a>
 
-
+    ### DEPLOY ON CODESPACE 
+1. Deploy. `Free`
+JUST TYPE "NPM START" and the bot will start
+    <br>
+    <a href='https://github.com/codespaces' target="_blank"><img alt='Codespace' src='https://img.shields.io/badge/-Deploy-green?style=for-the-badge&logo=codespace&logoColor=white'/></a>
+    
 ### DEPLOYMENT ON TERMUX
 
 **Go to your termux and input this commands**
