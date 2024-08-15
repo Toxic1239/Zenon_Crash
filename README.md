@@ -5,7 +5,7 @@
   
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING ;ZENON +CRASH;WHATSAPP+BUG+BOT;CREATED+BY+TOXXIC+BOY;RELEASED+15-08-24" alt="Typing SVG" /></a>
   </p>
-    <img alt="TOXXIC-MD" width="830" height="950" src="https://telegra.ph/file/a17d08d830dff33ef69e7.png">
+    <img alt="TOXXIC-MD" width="1016" height="720" src="https://ibb.co/4dZX3XG">
 <p align="center">
 <p align="center">
 <a href="https://github.com/Toxic1239/Draken-Md-Bug"><img title="Author" src="https://img.shields.io/badge/Draken-Md?style=for-the-badge&logo=github"></a>
