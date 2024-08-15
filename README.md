@@ -3,7 +3,7 @@
   
 ***
   
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING ;DRAKEN MD BUG;WHATSAPP+BUG+BOT;CREATED+BY+TOXXIC+BOY;RELEASED+20-07-24" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING ;ZENON +CRASH;WHATSAPP+BUG+BOT;CREATED+BY+TOXXIC+BOY;RELEASED+15-08-24" alt="Typing SVG" /></a>
   </p>
     <img alt="TOXXIC-MD" width="830" height="950" src="https://telegra.ph/file/a17d08d830dff33ef69e7.png">
 <p align="center">
@@ -11,21 +11,19 @@
 <a href="https://github.com/Toxic1239/Draken-Md-Bug"><img title="Author" src="https://img.shields.io/badge/Draken-Md?style=for-the-badge&logo=github"></a>
 <p align="center">
 <a href="https://github.com/Toxic1239/followers"><img title="Followers" src="https://img.shields.io/github/followers/Toxic1239?color=blue&style=flat-square"></a>
-<a href="https://github.com/Toxic1239/Draken-Md-Bug/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Toxic1239/Draken-Md-Star?color=red&style=flat-square"></a>
-<a href="https://github.com/Toxic1239/Draken-Md-Bug/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Toxic1239/Draken-Md-Bug?color=green&style=flat-square"></a>
-<a href="https://github.com/Toxic1239/Draken-Md-Bug/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Toxic1239/Draken-Md-Bug?label=Watchers&color=yellow&style=flat-square"></a>
+<a href="https://github.com/Toxic1239/Zenon_Crash/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Toxic1239/Zenon_Crash-Star?color=red&style=flat-square"></a>
+<a href="https://github.com/Toxic1239/Zenon_Crash/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Toxic1239/Zenon_Crash?color=green&style=flat-square"></a>
+<a href="https://github.com/Toxic1239/Zenon_Crash/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Toxic1239/Zenon_Crash?label=Watchers&color=yellow&style=flat-square"></a>
 
-Draken Md is a bug bot designed to disable the account of Scammers all over the world use  reasonable
+### FIRST STAR AND FORK (IMPORTANT) 
 
-Yh i know my Readme Sucks and all Manage it 😶
-
-1. Click on **[Fork](https://github.com/Toxic1239/Draken-Md-Bug/fork)** A must . Make sure to add a star 🌟 to encourage the developers.
+1. Click on **[Fork](https://github.com/Toxic1239/Zenon_Crash/fork)** A must . Make sure to add a star 🌟 to encourage the developers.
 
 **DEPLOYMENT PROCESS**
 ### DEPLOY ON REPLIT
 IF YOU DON'T HAVE A REPLIT ACCOUNT CREATE ONE AND DEPLOY 
     <br>
-    <a href='https://replit.com/github/Toxic1239/Draken-Md-Bug' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Deploy-red?style=for-the-badge&logo=replit&logoColor=white'/></a>
+    <a href='https://replit.com/github/Toxic1239/Zenon_Crash' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Deploy-red?style=for-the-badge&logo=replit&logoColor=white'/></a>
 
 
 ### DEPLOYMENT ON TERMUX
@@ -64,7 +62,7 @@ git clone  (copy and paste your forked repo not mine to save your changes)
 
 7. After that type: 
 
-cd DRAKEN-MD-BUG
+cd Zenon_Crash
 
 8. after that type:
 
@@ -87,19 +85,19 @@ npm start
 ### REPORT ISSUES
 
 if you're having any issues message me on
-WhatsApp: (https://wa.me/33757054414) 
+Owner: [Telegram](https://t.me/Toxxicn_bot) 
 
 If the bot goes offline 
 Just type cd and the bot name 
 Then type npm start
 It will come online
 
-`Please Draken Md is just for fun, don't use it to harm innocent people`
+`Please Zenon_Crash is not for fun, don't use it to harm innocent people`
 
 
 ## Contributions
 
-Contributions to Draken MD are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request. <br>
+Contributions to Zenon_Crash are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request. <br>
 
    thanks to these people ;
 
@@ -108,7 +106,7 @@ Contributions to Draken MD are welcome! If you have ideas for new features, impr
 
 ## License
 
-The WhatsApp Bot Draken Md is released under the [MIT License](https://opensource.org/licenses/MIT).
+The WhatsApp Bot Zenon_Crash is released under the [MIT License](https://opensource.org/licenses/MIT).
 
 Enjoy the diverse features of the WhatsApp Bot Toxxic Md to enhance your conversations and make your WhatsApp experience more interesting!
 
