@@ -18,74 +18,80 @@
 ### FIRST STAR AND FORK (IMPORTANT) 
 
 1. Click on **[Fork](https://github.com/Toxic1239/Zenon_Crash/fork)** A must . Make sure to add a star 🌟 to encourage the developers.
+### 2. GET SESSION ID HERE 
+
+<a href='https://replit.com/@obidikechikadib/Toxic-Creds#main.sh' target="_blank"><img alt='PAIR CODE' src='https://img.shields.io/badge/Click here to get your Creds file-blue?style=for-the-badge&logo=opencv&logoColor=white'/></a> 
 
 **DEPLOYMENT PROCESS**
+### IF YOU WANNA DEPLOY ANYWHERE JUST ADD YOUR CREDS.JSON TO YOUR FORKED REPO**>
+
 ### DEPLOY ON REPLIT
 IF YOU DON'T HAVE A REPLIT ACCOUNT CREATE ONE AND DEPLOY 
     <br>
     <a href='https://replit.com/github/Toxic1239/Zenon_Crash' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Deploy-red?style=for-the-badge&logo=replit&logoColor=white'/></a>
 
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ### DEPLOY ON CODESPACE 
 1. Deploy. `Free`
 JUST TYPE "NPM START" and the bot will start
+ 
     <br>
     <a href='https://github.com/codespaces' target="_blank"><img alt='Codespace' src='https://img.shields.io/badge/-Deploy-green?style=for-the-badge&logo=codespace&logoColor=white'/></a>
-    
-### DEPLOYMENT ON TERMUX
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>    
 
-**Go to your termux and input this commands**
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+# Termux Deployment
+```
 termux-setup-storage
-
+```
+```
 apt update
-
+```
+```
 apt upgrade
-
+```
+```
 pkg update && pkg upgrade
-
+```
+```
 pkg install bash
-
+```
+```
 pkg install libwebp
-
+```
+```
 pkg install git -y
-
+```
+```
 pkg install nodejs -y
-
+```
+```
 pkg install ffmpeg -y 
-
+```
+```
 pkg install wget
-
-pkg install imagemagick -y
-
-
-If you see any question while upgrading with this options with Y for yes or N for no = Click yes or y
-
-If you see any question while upgrading with this options with Y or n for default, = Click n for Default
-
-6. After its done upgrading type or copy and paste:
-
-git clone  (copy and paste your forked repo not mine to save your changes) 
-
-7. After that type: 
-
-cd Zenon_Crash
-
-8. after that type:
-
+```
+```
 pkg install yarn
-
-9. Then type:
-
-yarn install 
-
-10. After that type:
-
-npm start 
-
-11. It will ask you for your number type it with country code +
-12. It will give you a pair code go and link it to your WhatsApp 
-13. After linking
-14. Bot Connected ⚡
-15. Enjoy🤗
+```
+```
+git clone (copy and paste your forked repo link not mine to save changes your changes) 
+```
+```
+cd Zenon_Crash
+```
+```
+yarn install
+```
+```
+npm start
+```
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+- If you want Command For 24/7 (might no work) 
+```js
+npm i -g forever && forever index.js && forever save && forever logs
+```
+<br>
 
 ### REPORT ISSUES
 
