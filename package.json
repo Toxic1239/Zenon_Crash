@@ -1,6 +1,6 @@
 {
-    "name": "Draken-Md",
-    "version": "6.0.0",
+    "name": "Zenon-Md",
+    "version": "1.0.0",
     "description": "WhatsApp War Bot Using Nodejs",
     "main": "index.js",
     "type": "commonjs",
@@ -14,7 +14,7 @@
     "scripts": {
         "start": "node index.js"
     },
-    "author": "DGXeon",
+    "author": "Toxic1239",
     "license": "MIT",
     "dependencies": {
         "@whiskeysockets/baileys": "^6.7.5",

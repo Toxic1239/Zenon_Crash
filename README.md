@@ -11,7 +11,7 @@
 <a href="https://github.com/Toxic1239/Draken-Md-Bug"><img title="Author" src="https://img.shields.io/badge/Draken-Md?style=for-the-badge&logo=github"></a>
 <p align="center">
 <a href="https://github.com/Toxic1239/followers"><img title="Followers" src="https://img.shields.io/github/followers/Toxic1239?color=blue&style=flat-square"></a>
-<a href="https://github.com/Toxic1239/Draken-Md-Bug/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Toxic1239/Draken-Md-Bug?color=red&style=flat-square"></a>
+<a href="https://github.com/Toxic1239/Draken-Md-Bug/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Toxic1239/Draken-Md-Star?color=red&style=flat-square"></a>
 <a href="https://github.com/Toxic1239/Draken-Md-Bug/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Toxic1239/Draken-Md-Bug?color=green&style=flat-square"></a>
 <a href="https://github.com/Toxic1239/Draken-Md-Bug/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Toxic1239/Draken-Md-Bug?label=Watchers&color=yellow&style=flat-square"></a>
 
@@ -87,7 +87,7 @@ npm start
 ### REPORT ISSUES
 
 if you're having any issues message me on
-Telegram: [TOXXIC](https://t.me/Toxxicn_bot) 
+WhatsApp: (https://wa.me/33757054414) 
 
 If the bot goes offline 
 Just type cd and the bot name 

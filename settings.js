@@ -4,19 +4,19 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "2348086541281"
+global.ownernomer = "48459439078"
 global.ownername = "Toxxic Md"
 global.ytname = "Toxxic Md"
 global.socialm = "GitHub: Toxic1239"
 global.location = "Africa, Nigeria, Lagos"
 
-global.ownernumber = '2348086541281'  //creator number
+global.ownernumber = '48459439078'  //creator number
 global.ownername = 'Toxxic Md' //owner name
-global.botname = 'Draken Md' //name of the bot
+global.botname = 'ᴢᴇɴᴏɴ ᴍᴅ' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = 'Draken-Md\n\nContact: 2348086541281'
+global.author = 'ZENON\n\nContact: 48459439078'
 
 //console view/theme
 global.themeemoji = '💀'
@@ -52,15 +52,15 @@ global.bimg = '//9j/4AAQSkZJRgABAQAAAQABAAD/4gIoSUNDX1BST0ZJTEUAAQEAAAIYAAAAAAQw
 
 //reply messages
 global.mess = {
-    done:  'Done successfully!',
-    prem: 'Baka This Command is for Premium Users \n Now buss off',
-    admin: 'Baka \n This Command is for My owner only',
-    botAdmin: 'This Feature Can only be used If Draken Md is Admin ',
+    done: 'Done !',
+    prem: 'This Command is for Premium Users \n Leave or Ill kill you',
+    admin: 'Fool \n This Command is for My owner only',
+    botAdmin: 'This Feature Can only be used If *Zenon Md* is Admin ',
     owner: 'This feature can be used by owner only',
     group: 'This feature is only for groups',
     private: 'This feature is only for private chats',
-    wait: 'In process... ',    
-    error: 'Error!',
+    wait: 'Task is Being Processed... ',    
+    error: 'An Error Occurred!',
 }
 
 global.thumb = fs.readFileSync('./XeonMedia/thumb.jpg')
