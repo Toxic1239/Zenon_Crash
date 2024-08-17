@@ -23,7 +23,7 @@
 <a href='https://replit.com/@obidikechikadib/Toxic-Creds#main.sh' target="_blank"><img alt='PAIR CODE' src='https://img.shields.io/badge/Click here to get your Creds file-blue?style=for-the-badge&logo=opencv&logoColor=white'/></a> 
 
 **DEPLOYMENT PROCESS**
-### IF YOU WANNA DEPLOY ANYWHERE JUST ADD YOUR CREDS.JSON TO YOUR FORKED REPO**>
+### IF YOU WANNA DEPLOY ANYWHERE JUST ADD YOUR CREDS.JSON TO YOUR FORKED REPO**
 
 ### DEPLOY ON REPLIT
 IF YOU DON'T HAVE A REPLIT ACCOUNT CREATE ONE AND DEPLOY 
