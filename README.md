@@ -5,7 +5,7 @@
   
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING ;ZENON +CRASH;WHATSAPP+BUG+BOT;CREATED+BY+TOXXIC+BOY;RELEASED+15-08-24" alt="Typing SVG" /></a>
   </p>
-    <a href="https://files.catbox.moe/sq19gx.jpg"><img src="[https://i.ibb.co/6BRTLTx/thumb.jpg](https://files.catbox.moe/sq19gx.jpg)" alt="thumb" border="0"></a>
+    <a href="https://ibb.co/th8DJZN"><img src="https://i.ibb.co/th8DJZN/o.jpg" alt="o" border="0"></a>
 <p align="center">
 <p align="center">
 <a href="https://github.com/Toxic1239/Zenon_Crash"><img title="Author" src="https://img.shields.io/badge/ZenonCrash?style=for-the-badge&logo=github"></a>
