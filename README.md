@@ -5,7 +5,7 @@
   
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING ;ZENON +CRASH;WHATSAPP+BUG+BOT;CREATED+BY+TOXXIC+BOY;RELEASED+15-08-24" alt="Typing SVG" /></a>
   </p>
-    <a href="https://ibb.co/4dZX3XG"><img src="https://i.ibb.co/6BRTLTx/thumb.jpg" alt="thumb" border="0"></a>
+    <a href="https://files.catbox.moe/sq19gx.jpg"><img src="[https://i.ibb.co/6BRTLTx/thumb.jpg](https://files.catbox.moe/sq19gx.jpg)" alt="thumb" border="0"></a>
 <p align="center">
 <p align="center">
 <a href="https://github.com/Toxic1239/Zenon_Crash"><img title="Author" src="https://img.shields.io/badge/ZenonCrash?style=for-the-badge&logo=github"></a>
@@ -34,12 +34,20 @@ IF YOU DON'T HAVE A REPLIT ACCOUNT CREATE ONE AND DEPLOY
 ### DEPLOY ON CODESPACE 
 1. Deploy. `Free`
 JUST TYPE "NPM START" and the bot will start
- 
+
+
     <br>
     <a href='https://github.com/codespaces' target="_blank"><img alt='Codespace' src='https://img.shields.io/badge/-Deploy-green?style=for-the-badge&logo=codespace&logoColor=white'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>    
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+### ACCESS CODES
+# USERNAME
+```
+toxxictech
+```
+# PASSWORD
+```
+zenonbotinc
+```
 # Termux Deployment
 ```
 termux-setup-storage
@@ -112,7 +120,7 @@ Contributions to Zenon_Crash are welcome! If you have ideas for new features, im
 
    thanks to these people ;
 
-   **Xeon** who made the base bot <br>
+   **Toxxic** Bot Developer <br>
 
 
 ## License
